@@ -50,6 +50,10 @@ a:focus {
   outline: none;
 }
 
+a {
+  color: black;
+}
+
 ul,
 ol {
   padding: 0;
